@@ -9,6 +9,7 @@
     "ag-grid-community": "^31.3.2",
     "ag-grid-react": "^31.3.2",
     "chart.js": "^4.4.3",
+    "date-fns": "^3.6.0", // Thêm thư viện date-fns
     "file-saver": "^2.0.5",
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.8.2",
@@ -47,4 +48,3 @@
      "tailwindcss": "^3.4.3"
    }
 }
-
